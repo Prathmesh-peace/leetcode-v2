@@ -7,9 +7,10 @@
     "Array",
     "Two Pointers"
   ],
+  "submissionId": 2062959929,
   "language": "java",
   "runtime": "1 ms",
-  "memory": "46.8 MB",
-  "timestamp": 1783693143,
+  "memory": "46.5 MB",
+  "timestamp": 1783694342,
   "url": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/"
 }
