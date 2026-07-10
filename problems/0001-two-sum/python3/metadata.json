@@ -7,10 +7,10 @@
     "Array",
     "Hash Table"
   ],
-  "submissionId": 2063011081,
+  "submissionId": 2063012300,
   "language": "python3",
-  "runtime": "0 ms",
+  "runtime": "3 ms",
   "memory": "20.4 MB",
-  "timestamp": 1783697481,
+  "timestamp": 1783697551,
   "url": "https://leetcode.com/problems/two-sum/description/"
 }
