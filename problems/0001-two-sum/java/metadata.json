@@ -1,0 +1,16 @@
+{
+  "id": "1",
+  "title": "Two Sum",
+  "slug": "two-sum",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table"
+  ],
+  "submissionId": 2063013633,
+  "language": "java",
+  "runtime": "2 ms",
+  "memory": "47.3 MB",
+  "timestamp": 1783697630,
+  "url": "https://leetcode.com/problems/two-sum/description/"
+}
